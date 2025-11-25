@@ -1,4 +1,4 @@
-[![Nuget Version](https://img.shields.io/nuget/v/Devart.Data.Oracle?color=informational&label=latest)](https://www.nuget.org/packages/Devart.Data.Oracle) [![Installation Count](https://img.shields.io/nuget/dt/Devart.Data.Oracle?color=informational&label=Devart.Data.PostgreSQL&logo=nuget)](https://www.nuget.org/packages/Devart.Data.Oracle) [![Installation Count](https://img.shields.io/nuget/dt/Devart.Data.Oracle.EFCore?color=informational&label=Devart.Data.PostgreSQL.EFCore&logo=nuget)](https://www.nuget.org/packages/Devart.Data.Oracle.EFCore)
+[![Nuget Version](https://img.shields.io/nuget/v/Devart.Data.Oracle?color=informational&label=latest)](https://www.nuget.org/packages/Devart.Data.Oracle) [![Installation Count](https://img.shields.io/nuget/dt/Devart.Data.Oracle?color=informational&label=Devart.Data.Oracle&logo=nuget)](https://www.nuget.org/packages/Devart.Data.Oracle) [![Installation Count](https://img.shields.io/nuget/dt/Devart.Data.Oracle.EFCore?color=informational&label=Devart.Data.Oracle.EFCore&logo=nuget)](https://www.nuget.org/packages/Devart.Data.Oracle.EFCore)
 
 ## .NET Connector for Oracle With ORM Support
 
